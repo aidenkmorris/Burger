@@ -7,12 +7,12 @@
 ## Languages / Tools Used
 - Processing
 - Paint3D (art)
-- Cakewalk (music & SFX, now called Sonar)
-- Vital (music & SFX)
+- [Cakewalk](https://www.cakewalk.com/sonar) (music & SFX, now called Cakewalk Sonar)
+- [Vital](https://vital.audio/) (music & SFX)
 
 ## How to Run
 1. Open the project in Processing
-2. Run `Burger.ps`
+2. Run `Burger.pde`
 
 ## When It Was Made
 Dec 2023 - Jan 2024
