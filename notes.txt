@@ -1,0 +1,51 @@
+health bar at bottom: 4 orders wrong then gameover
+time for each order: 
+	1 item: 5 seconds
+	2 item: 7 seconds
+	3 item: 10 seconds
+	4 item: 15 seconds
+	5 item: 20 seconds
+	6 item: 25 seconds
+	7 item: 30 seconds
+
+combo meter:
+	5 orders: 2x
+	10 orders: 3x
+	25 orders: 4x
+
+length of order
+tokens: 26
+1: 1/26
+2: 2/26
+3: 3/26
+4: 8/26
+5: 6/26
+6: 4/26
+7: 2/26
+
+chance for ingredients:
+	bottom bun: 9/10 (exclusive)
+	top bun: 8/10 (exclusive)
+	----------------------------
+	Ingredient 1:
+		patty: 19/20
+		else: 1/20
+	Ingredient 2: 
+		patty: 1/4
+		else: 3/4
+	Ingredient 3:
+		patty: 1/8
+		else: 7/8
+	Ingredient 4:
+		patty: 1/16
+		else: 15/16
+	Ingredient 5:
+		patty: 1/32
+		else: 31/32
+	Ingredient 6:
+		patty: 1/64
+		else: 63/64
+	Ingredient 7:
+		patty: 1/128
+		else: 127/128
+		
